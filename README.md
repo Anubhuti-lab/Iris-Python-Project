@@ -1,4 +1,4 @@
-# Iris-Python-Project
+# Iris-Dataset-Classification Project
 Overview
 This project explores the classic Iris flower dataset, implementing various machine learning classification techniques to predict the species of iris flowers based on their physical characteristics. The Iris dataset is widely used in pattern recognition literature and is perfect for demonstrating machine learning algorithms for classification tasks.
 Dataset Description
